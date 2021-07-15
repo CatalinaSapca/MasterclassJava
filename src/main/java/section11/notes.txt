@@ -1,0 +1,20 @@
+Java Naming Convention
+
+Packages:
+-> are always lowercase
+-> unique
+
+Classes:
+-> CamelCase
+-> should be nouns
+-> should start with capital letter
+
+Constants:
+-> all upper case
+-> separate words separated by underscore _
+
+Variable names:
+-> mixedCase
+-> should be meaningful
+-> starts with lowercase
+-> CamelCase

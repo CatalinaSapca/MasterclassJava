@@ -1,0 +1,4 @@
+to add element at index i in ArrayList, you have to move all record -- shifting them
+to add element to LinkedList at index i in ArrayList, you DON'T have to move all the records, just insert one where you want
+
+//same with delete

@@ -1,0 +1,8 @@
+Interface - abstract
+- provide a common behaviour for several classes
+- commitment
+- a contract
+- you don't actually need the access modifier
+
+- In a class that implements an interface you need to override all methods
+in order to be a valid interface implementation.

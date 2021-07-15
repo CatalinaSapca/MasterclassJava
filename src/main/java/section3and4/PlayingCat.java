@@ -1,0 +1,16 @@
+package section3and4;
+
+public class PlayingCat {
+
+    public static boolean isCatPlaying(boolean summer,int temperature) {
+        if(summer == true) {
+            if (temperature >= 25 && temperature <= 45)
+                return true;
+        }
+        else
+            if(temperature>=25 && temperature<=35)
+                return true;
+        return false;
+    }
+
+}

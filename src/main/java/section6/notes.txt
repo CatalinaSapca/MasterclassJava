@@ -1,0 +1,18 @@
+Reference vs Object vs Instance vs Class---
+
+
+super -- used to call/access the parent class methods
+this --
+
+--------------------------------------------Static vs Instance Methods
+-static methods are declared using static modifier
+-static methods can't access instance methods and instance variables directly
+
+-instance methods belong to an instance of a class
+-to use an instance method we have to instantiate the class first usually by using the NEW keyword
+
+Dog dog = new Dog(); // new instance; dog is a reference to a dog instance
+
+------------------------------------------------------Static vs Instance Variables
+-static variable can be accesed from outside the class without requiring a instance of that class
+ to be created
